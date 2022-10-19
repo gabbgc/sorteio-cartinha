@@ -1,6 +1,6 @@
 # sorteio-cartinha
 
-##INTEGRANTES
+## INTEGRANTES
 
 - Guilherme Bemvindo Santana Martins Ciência da computação UC22200275
 
